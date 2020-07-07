@@ -21,9 +21,9 @@ export const aboutData = {
   paragraphOne:
     'I am a software developer from Brooklyn, NY. I currently work for Infosys, a consulting company. I graduated with a Bachelor of Science degree in computer science.',
   paragraphTwo:
-    'I have knowledge in the following programming languages: JavaScript, Python, and Java. I specialize in web development. The web frameworks I have used at work, side projects, or open source are Spring, React, Express, and Node.js. I primary use Oracle 11g as a SQL database.',
+    'I have knowledge of the following programming languages: JavaScript, Python, and Java. I specialize in web development. The web frameworks I have used at work, side projects, or open-source are Spring, React, Express, and Node.js. I primarily use Oracle 11g as a SQL database.',
   paragraphThree:
-    'I believe technology can be used to make a positive difference in the world. In my next role I would like to be a part of a company whose mission is to a positive impact.',
+    'I believe technology can be used to make a positive difference in the world. In my next role, I would like to be a part of a company whose mission is to a positive impact.',
   resume: '', // if no resume, the button will not show up
 };
 
