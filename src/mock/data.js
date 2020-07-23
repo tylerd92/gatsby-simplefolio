@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Tyler Deans',
-  subtitle: "I'm the Unknown Developer.",
+  subtitle: "I'm a Front End Developer.",
   cta: '',
 };
 
@@ -31,13 +31,23 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'MyReads.png',
+    title: 'MyReads',
+    info:
+      'This applications works like a "virtual" bookshelf. It allows you to keep track of what books you are currently reading, want to read, and have read. When you "move" the book from one "shelf" to another it saves your changes through an API.',
+    info2: '',
+    url: 'https://reactnd-project-myreads-starter-eight.vercel.app/',
+    repo: 'https://github.com/tylerd92/reactnd-project-myreads-starter',
+  },
+  {
+    id: uuidv1(),
     img: 'myHealthLog.png',
     title: 'CoronaTracker',
     info:
       "An open source project I contribute to, it is an easy-to-use PWA to monitor the user's wellness and learn about COVID-19.",
     info2: '',
     url: 'https://coronatrackerbeta.com/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/COVID-19-electronic-health-system/Corona-tracker', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
