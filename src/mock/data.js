@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'MyReads.png',
     title: 'MyReads',
     info:
-      'This applications works like a "virtual" bookshelf. It allows you to keep track of what books you are currently reading, want to read, and have read. When you "move" the book from one "shelf" to another it saves your changes through an API.',
+      'This application works like a "virtual" bookshelf. It allows you to keep track of what books you are currently reading, want to read, and have read. When you "move" the book from one "shelf" to another it saves your changes through an API.',
     info2: '',
     url: 'https://reactnd-project-myreads-starter-eight.vercel.app/',
     repo: 'https://github.com/tylerd92/reactnd-project-myreads-starter',
